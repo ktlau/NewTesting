@@ -137,7 +137,7 @@ namespace MyNameSpace
 
             this.Close();
         }
-
+        // vvvvv
         private void clearForNextItem()
         {
             // Clear option buttons, check boxes, text boxes.
