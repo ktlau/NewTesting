@@ -224,7 +224,7 @@ namespace MyNameSpace
             // exitButton
             // 
             this.exitButton.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.exitButton.Location = new System.Drawing.Point(680, 375);
+            this.exitButton.Location = new System.Drawing.Point(680, 405);
             this.exitButton.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.exitButton.Name = "exitButton";
             this.exitButton.Size = new System.Drawing.Size(162, 43);
@@ -270,7 +270,7 @@ namespace MyNameSpace
             this.quantityTextBox.Name = "quantityTextBox";
             this.quantityTextBox.Size = new System.Drawing.Size(34, 26);
             this.quantityTextBox.TabIndex = 4;
-            this.quantityTextBox.Text = "2";
+            this.quantityTextBox.Text = "3";
             // 
             // menuStrip1
             // 
@@ -282,7 +282,7 @@ namespace MyNameSpace
             this.helpToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(879, 35);
+            this.menuStrip1.Size = new System.Drawing.Size(879, 33);
             this.menuStrip1.TabIndex = 11;
             this.menuStrip1.Text = "menuStrip1";
             // 
