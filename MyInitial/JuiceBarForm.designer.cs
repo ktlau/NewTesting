@@ -270,7 +270,8 @@ namespace MyNameSpace
             this.quantityTextBox.Name = "quantityTextBox";
             this.quantityTextBox.Size = new System.Drawing.Size(34, 26);
             this.quantityTextBox.TabIndex = 4;
-            this.quantityTextBox.Text = "3";
+            this.quantityTextBox.Text = "4";
+            this.quantityTextBox.TextChanged += new System.EventHandler(this.quantityTextBox_TextChanged);
             // 
             // menuStrip1
             // 

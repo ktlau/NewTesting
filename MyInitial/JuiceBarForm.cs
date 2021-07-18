@@ -205,6 +205,11 @@ namespace MyNameSpace
                 .priceDecimal.ToString("C");
         }
 
+        private void quantityTextBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
             // Display about form.
